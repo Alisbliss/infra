@@ -42,3 +42,6 @@ application-local.yml
 *.log
 logs/
 run.log
+
+### macOS ###
+.DS_Store
